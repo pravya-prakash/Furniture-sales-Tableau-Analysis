@@ -3,6 +3,7 @@
 This dashboard provides a comprehensive overview of product performance, color popularity, and sales distribution across store types and locations.
 ## Questions
 1.Which product category has the highest sales?
+
 2.Does the category with the highest sales also have the highest profit margin?
 3.Which category shows a good balance of sales and profit margin?
 4.Are there any categories that have high profit margins but relatively lower sales?
